@@ -14,8 +14,7 @@ I am a passionate **Data Analysis** and **Python** enthusiast. I love working wi
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### 📊 GitHub Stats
-![Semiha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=semihaseker&show_icons=true&theme=radical)
-
+![Semiha's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=semihaseker&show_icons=true&theme=radical)
 ### 📫 How to reach me:
 - **LinkedIn:** [www.linkedin.com/in/semiha-şeker-6a6a81386)
 - **Email:** semihasekerrr@hotmail.com
