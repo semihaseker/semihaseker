@@ -1,31 +1,35 @@
 # 👋 Hi, I'm Semiha
 
-🎓 AI & Data Science Student | 📊 Data Analyst | 🤖 ML Enthusiast  
-💡 Turning data into meaningful insights through analysis and modeling
+🎓 AI & Data Science Student | 🤖 Machine Learning Enthusiast | 📊 Data Analyst  
+💡 Passionate about solving real-world problems with data and artificial intelligence
 
----
+🚀 Currently seeking **Data Science / AI / ML Internship Opportunities**
+
+
+
 
 ## 👩‍💻 About Me
 
-I am a highly motivated student focused on **Artificial Intelligence, Data Science, and Machine Learning**.
+I am a highly motivated student specializing in **Artificial Intelligence, Data Science, and Machine Learning**.
 
-I enjoy working on real-world datasets and building end-to-end projects, from data cleaning to model evaluation.
+I enjoy building end-to-end projects, from raw data processing to model deployment and visualization.
 
-I am constantly improving my:
+My strengths include:
 - Analytical thinking
-- Problem-solving mindset
-- Project-based learning skills
+- Problem-solving
+- Project-based learning
+- Continuous self-improvement
 
 
 
 
 ## 🚀 Current Focus
 
-- 📊 Building end-to-end Data Science projects
-- 🤖 Developing Machine Learning models
-- 📈 Improving data storytelling & visualization
-- 🗃 Strengthening SQL & data management
-- 🧠 Learning Deep Learning
+- 📊 Developing end-to-end data science pipelines  
+- 🤖 Training and optimizing ML models  
+- 📈 Data visualization & storytelling  
+- 🗃 SQL & data management  
+- 🧠 Deep Learning fundamentals 
 
 
 
@@ -67,20 +71,20 @@ Complete data science workflow including data generation, preprocessing, EDA, vi
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
----
+
 
 ## 📚 Currently Learning
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
+
 
 
 ## 📊 GitHub Stats
 
 ![Semiha's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=semihaseker&show_icons=true&theme=radical)
 
----
+
 
 
 ## 📬 Contact
