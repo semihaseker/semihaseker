@@ -32,7 +32,7 @@ My strengths include:
 - 🧠 Deep Learning fundamentals 
 
 
-
+---
 
 ## 🏆 Featured Projects
 
@@ -45,9 +45,20 @@ Complete data science workflow including data generation, preprocessing, EDA, vi
 
 👉 [View Project](https://github.com/semihaseker/Wi-Fi-Hotspot-Data-Analysis)
 
-> 🚧 More projects coming soon...
+
+---
+
+### 🌍 Smart City Crowd Prediction (NYC)
+AI-powered system for predicting pedestrian density using real-world open data and machine learning.
+
+🔹 Tech: Python, Pandas, NumPy, Scikit-learn, Folium  
+🔹 Model: Random Forest  
+🔹 Focus: Crowd Analysis & Smart City Planning  
+
+👉 [View Project](https://github.com/semihaseker/smart-city-crowd-prediction)
 
 
+---
 
 
 ## 🛠 Tech Stack
